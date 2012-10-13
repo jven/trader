@@ -10,7 +10,6 @@ src_managed/
 project/boot/
 project/plugins/project/
 .lib/
-src/
 
 # Scala-IDE specific
 .scala_dependencies
